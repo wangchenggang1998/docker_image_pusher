@@ -5,3 +5,5 @@ xhofe/alist:latest
 portainer/portainer
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+--platform=aarch64 portainer/portainer
+
