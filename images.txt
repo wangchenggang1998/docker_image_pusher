@@ -7,4 +7,5 @@ dorowu/ubuntu-desktop-lxde-vnc:latest
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=aarch64 portainer/portainer
 --platform=linux/arm/v8 portainer/portainer
-
+#ros相关
+osrf/ros:noetic-desktop
